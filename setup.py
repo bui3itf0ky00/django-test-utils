@@ -12,6 +12,5 @@ setup(
     test_suite = "test_project.run_tests.run_tests",
     include_package_data = True,
     install_requires=[
-        'twill',
     ]
     )
